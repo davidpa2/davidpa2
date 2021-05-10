@@ -77,4 +77,4 @@ I'm **David Padilla Aguilera**, I am a **Fullstack Web Developer** and **Technic
 
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranciscoFer99&hide=contribs,prs)](https://github.com/davidpa2/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidpa2&hide=contribs,prs)](https://github.com/davidpa2/github-readme-stats)
