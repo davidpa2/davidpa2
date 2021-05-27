@@ -49,8 +49,8 @@ I'm **David Padilla Aguilera**, I am a **Fullstack Web Developer** and **Technic
         <br/><br/>
       </td>
       <td width="25%" align="center" style="padding-bottom:3rem">
-          <span><b>PostgreSQL</b></span><br/><br/><br/>
-         <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
+          <span><b>PHP</b></span><br/><br/><br/>
+         <img height="64px" src="http://lineadecodigo.com/wp-content/uploads/2013/11/php.png">
          <br/><br/>
       </td>
     </tr>
@@ -66,8 +66,8 @@ I'm **David Padilla Aguilera**, I am a **Fullstack Web Developer** and **Technic
         <br/><br/>
       </td>
       <td width="25%" align="center" style="padding-bottom:3rem">
-          <span><b>Hyper Terminal</b></span><br/><br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/hyper.svg">
+          <span><b>JavaScript</b></span><br/><br/><br/>
+        <img height="64px" src="https://www.manejandodatos.es/wp-content/uploads/2015/03/javascript.png">
         <br/><br/>
       </td>
     </tr>
