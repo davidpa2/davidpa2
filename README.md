@@ -11,7 +11,7 @@ I'm **David Padilla Aguilera**, I am a **Fullstack Web Developer** and **Technic
 
 - 💬 Contacta conmigo sobre cualquier duda
 - ⚡ Dato curioso: Si me propongo hacer algo, no paro hasta que lo termino
-- 📫 Como contactarme:
+- 📫 Como contactar conmigo:
 
   <a href="mailto:davidpaag2002@gmail.com"><img src="https://github.com/FranciscoFer99/resources/blob/main/IconGmail.png" width="50" height="50" ></a>
 
