@@ -55,19 +55,20 @@ I'm **David Padilla Aguilera**, I am a **Fullstack Web Developer** and **Technic
       </td>
     </tr>
     <tr valign="top">
-      <td width="25%" align="center" style="padding-bottom:3rem">
-        <span>𝗚𝗶𝘁</span><br/><br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-        <br/><br/>
-      </td>
+      
       <td width="25%" align="center" style="padding-bottom:3rem">
         <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br/><br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
         <br/><br/>
       </td>
+       <td width="25%" align="center" style="padding-bottom:3rem">
+        <span>Angular</span><br/><br/><br/>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">
+        <br/><br/>
+      </td>
       <td width="25%" align="center" style="padding-bottom:3rem">
-            <span><b>Oracle</b></span><br/><br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/oracle.svg">
+            <span><b>Laravel</b></span><br/><br/><br/>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">
         <br/><br/>
       </td>
     </tr>
