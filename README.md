@@ -18,7 +18,7 @@ I'm **David Padilla Aguilera**, I am a **Fullstack Web Developer** and **Technic
 
 ## Technologies and Tools do I use in my day to day ⚡
 
-<div style="width: 100%">
+<div width="100%">
    <table>
      <tbody>
        <tr valign="top">
