@@ -39,7 +39,7 @@ I'm **David Padilla Aguilera**, I am a **Fullstack Web Developer** and **Technic
     </tr>
     <tr valign="top">
       <td width="25%" align="center" style="padding-bottom:3rem">
-        <span>MySQL</span><br/><br/><br/>
+         <span><b>MySQL</b></span><br/><br/><br/>
         <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
         <br/><br/>
       </td>
@@ -61,7 +61,7 @@ I'm **David Padilla Aguilera**, I am a **Fullstack Web Developer** and **Technic
         <br/><br/>
       </td>
        <td width="25%" align="center" style="padding-bottom:3rem">
-        <span>Angular</span><br/><br/><br/>
+          <span><b>Angular</b></span><br/><br/><br/>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">
         <br/><br/>
       </td>
