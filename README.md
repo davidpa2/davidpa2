@@ -4,7 +4,7 @@
 I'm **David Padilla Aguilera**, I am **Web Developer**, passionate about **Technology**, **Open-source development**, **Team-work**. Always in constant learning.
 
 
-- 🔭 I am currently working on various projects.:
+- 🔭 I am currently working on various projects:
     * JavaScript development
     * HTML web pages
     * MySQL web pages
