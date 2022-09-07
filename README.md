@@ -1,22 +1,22 @@
 # David Padilla Aguilera
 ### Hi! 👋
 
-I'm **David Padilla Aguilera**, I am a **Fullstack Web Developer** and **Technician In Computer Systems**, passionate about **Technology**, **Linux**, **Open-source development**, **Team-work**. Always in constant learning.
+I'm **David Padilla Aguilera**, I am **Web Developer**, passionate about **Technology**, **Open-source development**, **Team-work**. Always in constant learning.
 
 
-- 🔭 Actualmente trabajo en diversos proyectos:
-    * Programación en Java
-    * Desarrollo de Páginas Web en HTML
-    * Bases de Datos Mysql Oracle​
+- 🔭 I am currently working on various projects.:
+    * JavaScript development
+    * HTML web pages
+    * MySQL web pages
 
-- 💬 Contacta conmigo sobre cualquier duda
-- ⚡ Dato curioso: Si me propongo hacer algo, no paro hasta que lo termino
-- 📫 Como contactar conmigo:
+- 💬 Contact me for any questions
+- ⚡ Curious fact: If I set out to do something, I don't stop until I finish it
+- 📫 How to contact with me:
 
   <a href="mailto:davidpaag2002@gmail.com"><img src="https://github.com/FranciscoFer99/resources/blob/main/IconGmail.png" width="50" height="50" ></a>
 
 
-## Technologies and Tools do I use in my day to day ⚡
+## Technologies and tools do I use in my day to day ⚡
 
 <table width="100%">
   <tbody>
