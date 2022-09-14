@@ -1,7 +1,7 @@
 # David Padilla Aguilera
 ### Hi! 👋
 
-I'm **David Padilla Aguilera**, I am **Web Developer**, passionate about **Technology**, **Open-source development**, **Team-work**. Always in constant learning.
+I'm **David Padilla Aguilera**, I'm **Web Developer**, passionate about **Technology**, **Open-source development**, **Team-work**. Always in constant learning.
 
 
 - 🔭 I am currently working on various projects:
