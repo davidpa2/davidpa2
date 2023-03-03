@@ -30,7 +30,7 @@ I'm **David Padilla Aguilera**, I'm **Web Developer**, passionate about **Techno
 <div style="width: 100%">
   <table width="100%">
     <tbody>
-      <tr valign="top">
+      <tr valign="top" style="width: 100%">
         <td width="25%" align="center" style="padding-bottom:3rem">
             <span><b>JavaScript</b></span><br/><br/><br/>
           <img height="64px" src="https://www.manejandodatos.es/wp-content/uploads/2015/03/javascript.png">
@@ -47,7 +47,7 @@ I'm **David Padilla Aguilera**, I'm **Web Developer**, passionate about **Techno
           <br/><br/>
         </td>
       </tr>
-      <tr valign="top">
+      <tr valign="top" style="width: 100%">
         <td width="25%" align="center" style="padding-bottom:3rem">
           <span><b>MySQL</b></span><br/><br/><br/>
           <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
@@ -64,7 +64,7 @@ I'm **David Padilla Aguilera**, I'm **Web Developer**, passionate about **Techno
           <br/><br/>
         </td>
       </tr>
-      <tr valign="top">      
+      <tr valign="top" style="width: 100%">      
         <td width="25%" align="center" style="padding-bottom:3rem">
           <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br/><br/><br/>
           <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
