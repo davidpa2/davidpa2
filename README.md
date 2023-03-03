@@ -14,7 +14,7 @@ I'm **David Padilla Aguilera**, I'm **Web Developer**, passionate about **Techno
 - ⚡ Curious fact: If I set out to do something, I don't stop until I finish it
 - 📫 How to contact with me:
 
-  <a href="mailto:davidpaag2002@gmail.com"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fgmail-icon&psig=AOvVaw1k4j5u4O0OD9n-gSicQx8w&ust=1677934197250000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLjH1I_mv_0CFQAAAAAdAAAAABAE" width="50" height="50" ></a>
+  <a href="mailto:davidpaag2002@gmail.com"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngmart.com%2Fes%2Fimage%2Ftag%2Fgmail&psig=AOvVaw0NHFSO-MlF-PVduJnhxRmo&ust=1677934688528000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPC45_nnv_0CFQAAAAAdAAAAABAI" width="50" height="50" ></a>
 
   <a href="https://www.linkedin.com/in/davidpadillaaguilera/"><img src="https://cdn.svgporn.com/logos/linkedin.svg" width="50" height="50" ></a>
 
