@@ -14,12 +14,12 @@ I'm **David Padilla Aguilera**, I'm **Web Developer**, passionate about **Techno
 - ⚡ Curious fact: If I set out to do something, I don't stop until I finish it
 - 📫 How to contact with me:
 
-<table>
-  <tr>
-    <td style="border: 0">
+<table style="margin-left: 40px; border: none">
+  <tr style="border: none">
+    <td style="border: none">
       <a href="mailto:davidpaag2002@gmail.com"><img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" width="50" height="50" ></a>
     </td>
-    <td style="border: 0">
+    <td style="border: none">
       <a href="https://www.linkedin.com/in/davidpadillaaguilera/"><img src="https://cdn.svgporn.com/logos/linkedin.svg" width="50" height="50" ></a>
     </td>
   </tr>
