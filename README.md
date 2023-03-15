@@ -66,8 +66,8 @@ I'm **David Padilla Aguilera**, I'm **Web Developer**, passionate about **Techno
       </tr>
       <tr valign="top" style="width: 100%">      
         <td width="25%" align="center" style="padding-bottom:3rem">
-          <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br/><br/><br/>
-          <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+          <span>NodeJS</span><br/><br/><br/>
+          <img height="64px" src="[https://cdn.svgporn.com/logos/visual-studio-code.svg](https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png)">
           <br/><br/>
         </td>
         <td width="25%" align="center" style="padding-bottom:3rem">
