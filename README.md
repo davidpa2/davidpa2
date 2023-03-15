@@ -66,7 +66,7 @@ I'm **David Padilla Aguilera**, I'm **Web Developer**, passionate about **Techno
       </tr>
       <tr valign="top" style="width: 100%">      
         <td width="25%" align="center" style="padding-bottom:3rem">
-          <span>NodeJS</span><br/><br/><br/>
+          <span><b>NodeJS</b></span><br/><br/><br/>
           <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png">
           <br/><br/>
         </td>
