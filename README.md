@@ -27,7 +27,7 @@ I'm **David Padilla Aguilera**, I'm **Web Developer**, passionate about **Techno
 
 ## Technologies and tools do I use in my day to day ⚡
 
-<table>
+<table style="width: 100%">
   <tbody>
     <tr valign="top">
       <td width="25%" align="center" style="padding-bottom:3rem">
