@@ -10,8 +10,8 @@ I'm **David Padilla Aguilera**, I'm **Web Developer**, passionate about **Techno
   - JavaScript development
   - CSS and SASS web design
 
-- 💬 Contact me for any questions
 - ⚡ Curious fact: If I set out to do something, I don't stop until I finish it
+- 💬 Contact me for any questions
 - 📫 How to contact with me:
 
 <table style="margin-left: 40px; border: none">
