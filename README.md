@@ -32,7 +32,7 @@ I'm **David Padilla Aguilera**, I'm **Web Developer**, passionate about **Techno
     <tr valign="top">
       <td width="25%" align="center" style="padding-bottom:3rem">
         <span><b>JavaScript</b></span><br/><br/><br/>
-        <img height="64px" src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Symbol.png">
+        <img height="64px" src="https://w7.pngwing.com/pngs/588/733/png-transparent-js-logo-javascript.png">
         <br/><br/>
       </td>
       <td width="25%" align="center" style="padding-bottom:3rem">
