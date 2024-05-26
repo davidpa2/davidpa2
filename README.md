@@ -32,7 +32,7 @@ I'm **David Padilla Aguilera**, I'm **Web Developer**, passionate about **Techno
     <tr valign="top">
       <td width="25%" align="center" style="padding-bottom:3rem">
         <span><b>JavaScript</b></span><br/><br/><br/>
-        <img height="64px" src="https://e7.pngegg.com/pngimages/725/775/png-clipart-javascript-html-logo-blog-css3-javanese-miscellaneous-angle-thumbnail.png">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/800px-Javascript-shield.svg.png">
         <br/><br/>
       </td>
       <td width="25%" align="center" style="padding-bottom:3rem">
