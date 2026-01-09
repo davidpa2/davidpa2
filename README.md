@@ -1,5 +1,3 @@
-# David Padilla Aguilera
-
 # 👋 ¡Hola! Soy **David Padilla Aguilera**
 
 ![Header Animado](https://github.com/davidpa2/davidpa2/raw/main/header.gif)
