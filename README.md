@@ -1,88 +1,70 @@
 # David Padilla Aguilera
 
-### Hi! 👋
+# 👋 ¡Hola! Soy **David Padilla Aguilera**
 
-I'm **David Padilla Aguilera**, I'm **Web Developer**, passionate about **Technology**, **Open-source development** and **Team-work**. Always in constant learning.
+![Header Animado](https://github.com/davidpa2/davidpa2/raw/main/header.gif)
 
-- 🔭 I am currently working on various projects:
+Soy un **Desarrollador Full Stack** apasionado por la tecnología, el código limpio y el aprendizaje continuo. Me encanta construir proyectos reales, optimizados y con buena arquitectura 💡.
 
-  - Angular - Ionic projects
-  - JavaScript development
-  - CSS and SASS web design
+📍 Vivo en España | ☕ Fanático del café y buen código.
 
-- ⚡ Curious fact: If I set out to do something, I don't stop until I finish it
-- 💬 Contact me for any questions
-- 📫 How to contact with me:
+---
 
-<table style="margin-left: 40px; border: none">
-  <tr style="border: none">
-    <td style="border: none">
-      <a href="mailto:davidpaag2002@gmail.com"><img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" width="50" height="50" ></a>
-    </td>
-    <td style="border: none">
-      <a href="https://www.linkedin.com/in/davidpadillaaguilera/"><img src="https://cdn.svgporn.com/logos/linkedin.svg" width="50" height="50" ></a>
-    </td>
-  </tr>
-</table>
+## 💻 ¿Qué hago?
 
-## Technologies and tools do I use in my day to day ⚡
+Soy desarrollador con experiencia en proyectos web y móviles, donde combino tecnologías modernas para construir experiencias eficientes, escalables y con buen diseño.
 
-<table style="width: 100%">
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center" style="padding-bottom:3rem">
-        <span><b>JavaScript</b></span><br/><br/><br/>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/800px-Javascript-shield.svg.png">
-        <br/><br/>
-      </td>
-      <td width="25%" align="center" style="padding-bottom:3rem">
-        <span><b>HTML</b></span><br/><br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-        <br/><br/>
-      </td>
-      <td width="25%" align="center" style="padding-bottom:3rem">
-        <span><b>CSS</b></span><br/><br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-        <br/><br/>
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center" style="padding-bottom:3rem">
-        <span><b>MySQL</b></span><br/><br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
-        <br/><br/>
-      </td>
-      <td width="25%" align="center" style="padding-bottom:3rem">
-        <span><b>Java</b></span><br/><br/><br/>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
-        <br/><br/>
-      </td> 
-      <td width="25%" align="center" style="padding-bottom:3rem">
-        <span><b>PHP</b></span><br/><br/><br/>
-        <img height="64px" src="http://lineadecodigo.com/wp-content/uploads/2013/11/php.png">
-        <br/><br/>
-      </td>
-    </tr>
-    <tr valign="top">      
-      <td width="25%" align="center" style="padding-bottom:3rem">
-        <span><b>NodeJS</b></span><br/><br/><br/>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png">
-        <br/><br/>
-      </td>
-      <td width="25%" align="center" style="padding-bottom:3rem">
-        <span><b>Angular</b></span><br/><br/><br/>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">
-        <br/><br/>
-      </td>
-      <td width="25%" align="center" style="padding-bottom:3rem">
-        <span><b>Laravel</b></span><br/><br/><br/>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">
-        <br/><br/>
-      </td>
-    </tr>
-  </tbody>
-</table>
+🚀 Actualmente trabajando con:
 
-<br/>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidpa2&show_icons=true&locale=en&layout=compact" alt="davidpa2" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=davidpa2&hide=contribs,prs)](https://github.com/davidpa2/github-readme-stats" /></p>
+- **Frontend:** Angular, Ionic, JavaScript, TypeScript
+- **Backend:** Node.js
+- **Bases de datos:** MySQL
+- **Otros:** HTML, CSS, SASS, Laravel (PHP), Java
+
+---
+
+## 🔧 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/-Ionic-3880FF?logo=ionic&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FC3C3C?logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+
+---
+
+## 🌟 Proyectos Destacados
+
+Aquí algunos de mis repositorios que pueden interesarte:
+
+✨ Lista completa y enlaces en mi perfil de repositorios 🌐
+
+🔹 **ElBancoDeLasPalabras-ProyectoFinal-DAW** – Proyecto real para reutilizar libros viejos  
+🔹 **Buscaminas** – Juego clásico en JavaScript  
+🔹 **Proyecto-DevisGarage-Angular** – SPA con Angular  
+🔹 **LeafyBird** – Mini juego estilo *Flappy Bird*
+
+---
+
+## 📫 Conectemos
+
+📌 Estoy abierto a colaboraciones, nuevas oportunidades y desafíos interesantes.
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/davidpadillaaguilera/  
+🔗 **GitLab:** https://gitlab.com/DeivisCode
+
+---
+
+## 📈 Estadísticas
+
+![DavidPA2 GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidpa2&show_icons=true&theme=github_dark)
+
+---
+
+✨ *“El mejor código es el que otros pueden entender y mejorar.”*  
