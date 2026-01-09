@@ -65,6 +65,10 @@ Aquí algunos de mis repositorios que pueden interesarte:
 
 ![DavidPA2 GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidpa2&show_icons=true&theme=github_dark)
 
+## 🧩 Lenguajes más utilizados
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidpa2&layout=compact&theme=github_dark)
+
 ---
 
 ✨ *“El mejor código es el que otros pueden entender y mejorar.”*  
