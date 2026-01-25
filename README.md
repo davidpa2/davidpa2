@@ -16,7 +16,7 @@ Soy desarrollador con experiencia en proyectos web y móviles, donde combino tec
 
 - **Frontend:** Angular, Ionic, JavaScript, TypeScript
 - **Backend:** Node.js
-- **Bases de datos:** MySQL
+- **Bases de datos:** MySQL, PostgreSQL
 - **Otros:** HTML, CSS, SASS, Laravel (PHP), Java
 
 ---
