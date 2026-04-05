@@ -61,11 +61,11 @@ Aquí algunos de mis repositorios que pueden interesarte:
 
 ## 📈 Estadísticas
 
-![DavidPA2 GitHub Stats](https://my-github-stats-davidpa2s-projects.vercel.app/api?username=davidpa2&show_icons=true&theme=github_dark)
+![DavidPA2 GitHub Stats](https://my-github-stats-one-omega.vercel.app/api?username=davidpa2&show_icons=true&theme=github_dark)
 
 ## 🧩 Lenguajes más utilizados
 
-![TopLangs](https://my-github-stats-davidpa2s-projects.vercel.app/api/top-langs/?username=davidpa2&layout=compact&theme=github_dark)
+![TopLangs](https://my-github-stats-one-omega.vercel.app/api/top-langs/?username=davidpa2&layout=compact&theme=github_dark)
 ---
 
 ✨ *“El mejor código es el que otros pueden entender y mejorar.”*  
