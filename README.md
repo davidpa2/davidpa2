@@ -15,7 +15,7 @@ Soy desarrollador con experiencia en proyectos web y móviles, donde combino tec
 🚀 Actualmente trabajando con:
 
 - **Frontend:** Angular, Ionic, JavaScript, TypeScript
-- **Backend:** Node.js
+- **Backend:** Node.js, C#, .NET
 - **Bases de datos:** MySQL, PostgreSQL
 - **Otros:** HTML, CSS, SASS, Laravel (PHP), Java
 
