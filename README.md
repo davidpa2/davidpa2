@@ -10,7 +10,7 @@ Soy un **Desarrollador Full Stack** apasionado por la tecnología, el código li
 
 ## 💻 ¿Qué hago?
 
-Soy desarrollador con experiencia en proyectos web y móviles, donde combino tecnologías modernas para construir experiencias eficientes, escalables y con buen diseño.
+Soy desarrollador con experiencia en proyectos web y móviles, donde combino tecnologías modernas para construir experiencias eficientes, escalables y con diseño atractivo.
 
 🚀 Actualmente trabajando con:
 
